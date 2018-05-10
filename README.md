@@ -10,19 +10,19 @@ This exercise helps one practice adding README.md files written in Markdown to t
 
 ## Setup
 
-*_Clone the repository._
-*_Type git log to confirm that you are in the project folder and can see all of your git commits from previous work on this project._
-*_Type git remove -v and you should see a remote link nicknamed origin to your remote repository url._
-*_Create an empty README.md file by typing touch README.md._
-*_Open the project folder in Atom by typing atom ._
-*_Write a README.md for hello-world webpage project using the Markdown language._
+<li>Clone the repository.</li>
+<li>Type git log to confirm that you are in the project folder and can see all of your git commits from previous work on this project.</li>
+<li>Type git remove -v and you should see a remote link nicknamed origin to your remote repository url.</li>
+<li>Create an empty README.md file by typing touch README.md.</li>
+<li>Open the project folder in Atom by typing atom .</li>
+<li>Write a README.md for hello-world webpage project using the Markdown language.</li>
 
 ## Technologies Used
 
-*_Command Line_
-*_HTML_
-*_Git_
-*_GitHub_
+<li>Command Line</li>
+<li>HTML</li>
+<li>Git</li>
+<li>GitHub</li>
 
 ### License
 
