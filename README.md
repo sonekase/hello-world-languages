@@ -1,13 +1,12 @@
-#_Add READMEs to Hello World project_
+Add READMEs to Hello World project
 
-###_Practice: READMEs Epicodus, 05.10.2018
-_
+Practice: READMEs Epicodus, 05.10.2018
 
-#### By _**Anousone Kaseumsouk**_
+By Anousone Kaseumsouk
 
 ## Description
 
-_This exercise helps one practice adding README.md files written in Markdown to the repositories._
+This exercise helps one practice adding README.md files written in Markdown to the repositories.
 
 ## Setup
 
@@ -25,8 +24,8 @@ _HTML
 _Git
 _GitHub
 
-###License
+### License
 
 *This software is license under the MIT license.*
 
-Copyright (c) 2018 **_Anousone Kaseumsouk_**
+Copyright (c) 2018 **Anousone Kaseumsouk**
