@@ -19,10 +19,10 @@ This exercise helps one practice adding README.md files written in Markdown to t
 
 ## Technologies Used
 
-_Command Line
-_HTML
-_Git
-_GitHub
+*_Command Line_
+*_HTML_
+*_Git_
+*_GitHub_
 
 ### License
 
